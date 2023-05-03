@@ -1,0 +1,3 @@
+D:/clion/CLion 2020.1.2/algotithm/4-27/cmake-build-debug/CMakeFiles/4_27.dir
+D:/clion/CLion 2020.1.2/algotithm/4-27/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/CLion 2020.1.2/algotithm/4-27/cmake-build-debug/CMakeFiles/rebuild_cache.dir
